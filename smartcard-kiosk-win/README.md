@@ -3,8 +3,9 @@
 
 https://nodejs.org/dist/latest-v8.x/node-v8.15.0-x64.msi
 
-2) install build tool
+2) install bytenode and build tool
 
+npm install -g bytenode
 npm install -g --production windows-build-tools
 
 3) install git
